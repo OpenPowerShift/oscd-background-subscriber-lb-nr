@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file target-language="de" source-language="en" original="lit-localize-inputs" datatype="plaintext">
+    <body>
+<trans-unit id="sd260f771c0397f30">
+  <source>NR Electric subscribe</source>
+  <target>NR Electric abonnieren</target>
+</trans-unit>
+<trans-unit id="s94c3b33f9b22a965">
+  <source>NR Electric unsubscribe</source>
+  <target>NR Electric abbestellen</target>
+</trans-unit>
+<trans-unit id="s7c791c2db787d572">
+  <source>Values: the input for their quality</source>
+  <target>Werte: der Eingang für ihre Qualität</target>
+</trans-unit>
+<trans-unit id="sc54e8377fc817a51">
+  <source>Subscribes and unsubscribes further inputs of NR Electric devices</source>
+  <target>Abonniert und bestellt weitere Eingänge von NR-Electric-Geräten ab</target>
+</trans-unit>
+    </body>
+  </file>
+</xliff>
